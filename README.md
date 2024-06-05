@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DollyParton2024
+- 👋 Hi, I’m @DollyParton2024 from Sweden
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learning Github
 - 💞️ I want to collaborate to learn and understand how ethical hacking works
